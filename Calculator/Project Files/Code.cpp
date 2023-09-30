@@ -76,3 +76,54 @@ secondnum = (InputVal->Text.ToDouble());
 }
 }
 //---------------------------------------------------------------------------
+void __fastcall TCalculator_::CClick(TObject *Sender)
+{
+	InputVal->Text = "0";
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TCalculator_::CEClick(TObject *Sender)
+{
+	InputVal->Text = "0";
+	String f, s;
+
+	f = (firstnum);
+	s = (secondnum);
+
+	f = "";
+	s = "";
+
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TCalculator_::PlusMinusClick(TObject *Sender)
+{
+Double q = (InputVal->Text.ToDouble());
+  InputVal->Text = (-1 * q);
+
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TCalculator_::BackspaceClick(TObject *Sender)
+{
+	int a = InputVal->Text.Length();
+	if (a ==1) {
+		InputVal->Text = "0";
+	}
+	else {
+		String b = InputVal->Text.Delete(a, 1);
+		 InputVal->Text = b;
+	}
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TCalculator_::DecimalClick(TObject *Sender)
+{
+ if (!InputVal->Text.Pos("."))
+ {
+   InputVal->Text = InputVal->Text + ".";
+
+ }
+}
+//---------------------------------------------------------------------------
+

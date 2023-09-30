@@ -35,6 +35,11 @@ __published:	// IDE-managed Components
 	void __fastcall NumClick(TObject *Sender);
 	void __fastcall OperatorClick(TObject *Sender);
 	void __fastcall EqualClick(TObject *Sender);
+	void __fastcall CClick(TObject *Sender);
+	void __fastcall CEClick(TObject *Sender);
+	void __fastcall PlusMinusClick(TObject *Sender);
+	void __fastcall BackspaceClick(TObject *Sender);
+	void __fastcall DecimalClick(TObject *Sender);
 private:	// User declarations
 public:		// User declarations
 	__fastcall TCalculator_(TComponent* Owner);
