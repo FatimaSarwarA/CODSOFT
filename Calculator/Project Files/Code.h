@@ -40,6 +40,7 @@ __published:	// IDE-managed Components
 	void __fastcall PlusMinusClick(TObject *Sender);
 	void __fastcall BackspaceClick(TObject *Sender);
 	void __fastcall DecimalClick(TObject *Sender);
+	void __fastcall OnlyNumber(TObject *Sender, System::WideChar &Key);
 private:	// User declarations
 public:		// User declarations
 	__fastcall TCalculator_(TComponent* Owner);

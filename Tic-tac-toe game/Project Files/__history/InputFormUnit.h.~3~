@@ -1,0 +1,24 @@
+//---------------------------------------------------------------------------
+
+#ifndef InputFormUnitH
+#define InputFormUnitH
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+#include <Vcl.Controls.hpp>
+#include <Vcl.StdCtrls.hpp>
+#include <Vcl.Forms.hpp>
+//---------------------------------------------------------------------------
+class TInputForm : public TForm
+{
+__published:	// IDE-managed Components
+	TEdit *TEdit;
+	TLabel *TLabel;
+	TButton *TButton;
+private:	// User declarations
+public:		// User declarations
+	__fastcall TInputForm(TComponent* Owner);
+};
+//---------------------------------------------------------------------------
+extern PACKAGE TInputForm *TInputForm;
+//---------------------------------------------------------------------------
+#endif

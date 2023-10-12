@@ -1,0 +1,33 @@
+//---------------------------------------------------------------------------
+
+#include <vcl.h>
+#pragma hdrstop
+
+#include "InputFormUnit.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+#pragma resource "*.dfm"
+TInputForm *InputForm;
+//---------------------------------------------------------------------------
+__fastcall TInputForm::TInputForm(TComponent* Owner)
+	: TForm(Owner)
+{
+}
+//---------------------------------------------------------------------------
+void __fastcall TInputForm::OnlyNumber(TObject *Sender, System::WideChar &Key)
+{
+  if (!isdigit(Key) && Key != 8  && Key != 46)
+	Key = 0;
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TInputForm::UserInputChange(TObject *Sender)
+{
+TEdit* edit = dynamic_cast<TEdit*>(Sender); // Cast Sender to TEdit
+
+    if (edit->Text.Length() > 1) {
+        edit->Text = edit->Text.SubString(1, 1); // Keep only the first character
+    }
+}
+//---------------------------------------------------------------------------
+

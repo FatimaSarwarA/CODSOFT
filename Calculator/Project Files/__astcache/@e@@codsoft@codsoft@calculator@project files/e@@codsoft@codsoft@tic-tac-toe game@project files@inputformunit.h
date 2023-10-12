@@ -1,0 +1,25 @@
+﻿//---------------------------------------------------------------------------
+
+#ifndef InputFormUnitH
+#define InputFormUnitH
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+#include <Vcl.Controls.hpp>
+#include <Vcl.StdCtrls.hpp>
+#include <Vcl.Forms.hpp>
+//---------------------------------------------------------------------------
+class TInputForm : public TForm
+{
+__published:	// IDE-managed Components
+	TLabel *AskUser;
+	TEdit *UserInput;
+	TButton *mrOk;
+	void __fastcall OnlyNumber(TObject *Sender, System::WideChar &Key);
+private:	// User declarations
+public:		// User declarations
+	__fastcall TInputForm(TComponent* Owner);
+};
+//---------------------------------------------------------------------------
+extern PACKAGE TInputForm *InputForm;
+//---------------------------------------------------------------------------
+#endif

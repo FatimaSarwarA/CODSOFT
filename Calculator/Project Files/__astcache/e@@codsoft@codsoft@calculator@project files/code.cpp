@@ -19,10 +19,6 @@ __fastcall TCalculator_::TCalculator_(TComponent* Owner)
 void __fastcall TCalculator_::NumClick(TObject *Sender)
 
 	{
-    if (InputVal->Text == answer) {
-        InputVal->Text = "0";
-    }
-
 TButton* b = ((TButton*)Sender);
 
 if (InputVal->Text == "0") {
@@ -125,5 +121,14 @@ void __fastcall TCalculator_::DecimalClick(TObject *Sender)
 
  }
 }
+//---------------------------------------------------------------------------
+
+void __fastcall TCalculator_::OnlyNumber(TObject *Sender, System::WideChar &Key)
+{
+
+  if (!isdigit(Key) && Key != 8  && Key != 46)
+	Key = 0;
+}
+
 //---------------------------------------------------------------------------
 

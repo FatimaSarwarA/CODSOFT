@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023-10-07 22:21:41.000.459,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project3PCH1.h</Transaction>
+    <Transaction>2023-10-07 22:21:41.000.570,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023-10-08 04:07:26.000.920,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project3.cbproj=E:\CODSOFT\CODSOFT\Tic-tac-toe game\Project Files\Tic-tac-toe.cbproj</Transaction>
+    <Transaction>2023-10-08 04:07:26.000.873,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\CODSOFT\CODSOFT\Tic-tac-toe game\Project Files\Unit1.dfm</Transaction>
+    <Transaction>2023-10-08 04:07:26.000.873,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.h=E:\CODSOFT\CODSOFT\Tic-tac-toe game\Project Files\Unit1.h</Transaction>
+    <Transaction>2023-10-08 04:07:26.000.826,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project3PCH1.h=E:\CODSOFT\CODSOFT\Tic-tac-toe game\Project Files\Tic-tac-toePCH1.h</Transaction>
+    <Transaction>2023-10-08 04:07:26.000.873,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.cpp=E:\CODSOFT\CODSOFT\Tic-tac-toe game\Project Files\Unit1.cpp</Transaction>
+    <Transaction>2023-10-08 04:09:18.000.539,=E:\CODSOFT\CODSOFT\Tic-tac-toe game\Project Files\Unit2.cpp</Transaction>
+    <Transaction>2023-10-08 04:21:21.000.333,E:\CODSOFT\CODSOFT\Tic-tac-toe game\Project Files\Unit2.dfm=E:\CODSOFT\CODSOFT\Tic-tac-toe game\Project Files\InputFormUnit.dfm</Transaction>
+    <Transaction>2023-10-08 04:21:21.000.333,E:\CODSOFT\CODSOFT\Tic-tac-toe game\Project Files\Unit2.h=E:\CODSOFT\CODSOFT\Tic-tac-toe game\Project Files\InputFormUnit.h</Transaction>
+    <Transaction>2023-10-08 04:21:21.000.333,E:\CODSOFT\CODSOFT\Tic-tac-toe game\Project Files\Unit2.cpp=E:\CODSOFT\CODSOFT\Tic-tac-toe game\Project Files\InputFormUnit.cpp</Transaction>
+    <Transaction>2023-10-08 04:30:16.000.298,E:\CODSOFT\CODSOFT\Tic-tac-toe game\Project Files\Unit1.cpp=E:\CODSOFT\CODSOFT\Tic-tac-toe game\Project Files\MainCode.cpp</Transaction>
+    <Transaction>2023-10-08 04:30:16.000.298,E:\CODSOFT\CODSOFT\Tic-tac-toe game\Project Files\Unit1.h=E:\CODSOFT\CODSOFT\Tic-tac-toe game\Project Files\MainCode.h</Transaction>
+    <Transaction>2023-10-08 04:30:16.000.298,E:\CODSOFT\CODSOFT\Tic-tac-toe game\Project Files\Unit1.dfm=E:\CODSOFT\CODSOFT\Tic-tac-toe game\Project Files\MainCode.dfm</Transaction>
+    <Transaction>2023-10-08 04:51:17.000.097,E:\CODSOFT\CODSOFT\Tic-tac-toe game\Project Files\InputFormUnit.cpp=</Transaction>
+    <Transaction>2023-10-08 04:51:39.000.676,=E:\CODSOFT\CODSOFT\Tic-tac-toe game\Project Files\Unit2.cpp</Transaction>
+    <Transaction>2023-10-08 04:56:03.000.521,E:\CODSOFT\CODSOFT\Tic-tac-toe game\Project Files\Unit2.dfm=E:\CODSOFT\CODSOFT\Tic-tac-toe game\Project Files\InputFormUnit.dfm</Transaction>
+    <Transaction>2023-10-08 04:56:03.000.521,E:\CODSOFT\CODSOFT\Tic-tac-toe game\Project Files\Unit2.cpp=E:\CODSOFT\CODSOFT\Tic-tac-toe game\Project Files\InputFormUnit.cpp</Transaction>
+    <Transaction>2023-10-08 04:56:03.000.521,E:\CODSOFT\CODSOFT\Tic-tac-toe game\Project Files\Unit2.h=E:\CODSOFT\CODSOFT\Tic-tac-toe game\Project Files\InputFormUnit.h</Transaction>
+    <Transaction>2023-10-10 04:45:03.000.201,E:\CODSOFT\CODSOFT\Tic-tac-toe game\Project Files\InputFormUnit.cpp=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Tic-tac-toe.cpp"/>
+    <File Path="Tic-tac-toePCH1.h"/>
+    <File Path="MainCode.cpp"/>
+    <File Path="MainCode.cpp"/>
+    <File Path="MainCode.dfm"/>
+    <File Path="MainCode.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
