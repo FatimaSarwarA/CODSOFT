@@ -1,0 +1,22 @@
+//---------------------------------------------------------------------------
+
+#include <vcl.h>
+#pragma hdrstop
+
+#include "Code.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+#pragma resource "*.dfm"
+Ttodolist *todolist;
+//---------------------------------------------------------------------------
+__fastcall Ttodolist::Ttodolist(TComponent* Owner)
+	: TForm(Owner)
+{
+}
+//---------------------------------------------------------------------------
+void __fastcall Ttodolist::AddTaskClick(TObject *Sender)
+{
+String taskText=TaskInput->Text;
+TasksList->Items->Add(taskText);
+}
+//---------------------------------------------------------------------------

@@ -1,0 +1,33 @@
+﻿//---------------------------------------------------------------------------
+
+#ifndef CodeH
+#define CodeH
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+#include <Vcl.Controls.hpp>
+#include <Vcl.StdCtrls.hpp>
+#include <Vcl.Forms.hpp>
+//---------------------------------------------------------------------------
+class Ttodolist : public TForm
+{
+__published:	// IDE-managed Components
+	TEdit *TaskInput;
+	TLabel *Label1;
+	TListBox *TasksList;
+	TButton *AddTask;
+	TButton *RemoveTask;
+	TButton *CompleteTask;
+	TButton *ClearList;
+	void __fastcall AddTaskClick(TObject *Sender);
+	void __fastcall Enter(TObject *Sender, System::WideChar &Key);
+	void __fastcall RemoveTaskClick(TObject *Sender);
+	void __fastcall CompleteTaskClick(TObject *Sender);
+	void __fastcall ClearListClick(TObject *Sender);
+private:	// User declarations
+public:		// User declarations
+	__fastcall Ttodolist(TComponent* Owner);
+};
+//---------------------------------------------------------------------------
+extern PACKAGE Ttodolist *todolist;
+//---------------------------------------------------------------------------
+#endif

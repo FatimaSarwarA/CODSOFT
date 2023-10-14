@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>2023-09-30 13:46:28.000.118,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
     <Transaction>2023-09-30 13:46:28.000.006,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project3PCH1.h</Transaction>
-    <Transaction>2023-09-30 13:46:50.000.790,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project3PCH1.h=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\CalculatorPCH1.h</Transaction>
-    <Transaction>2023-09-30 13:46:50.000.790,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project3.cbproj=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Calculator.cbproj</Transaction>
-    <Transaction>2023-09-30 13:46:59.000.247,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Code.dfm</Transaction>
-    <Transaction>2023-09-30 13:46:59.000.247,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Code.h</Transaction>
-    <Transaction>2023-09-30 13:46:59.000.247,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Code.cpp</Transaction>
-    <Transaction>2023-09-30 13:47:28.000.187,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Code.h=E:\CODSOFT\CODSOFT\Calculator\Project Files\Code.h</Transaction>
-    <Transaction>2023-09-30 13:47:28.000.272,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Calculator.cbproj=E:\CODSOFT\CODSOFT\Calculator\Project Files\Calculator.cbproj</Transaction>
-    <Transaction>2023-09-30 13:47:28.000.187,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Code.dfm=E:\CODSOFT\CODSOFT\Calculator\Project Files\Code.dfm</Transaction>
-    <Transaction>2023-09-30 13:47:28.000.187,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Code.cpp=E:\CODSOFT\CODSOFT\Calculator\Project Files\Code.cpp</Transaction>
-    <Transaction>2023-09-30 13:47:28.000.062,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\CalculatorPCH1.h=E:\CODSOFT\CODSOFT\Calculator\Project Files\CalculatorPCH2.h</Transaction>
+    <Transaction>2023-09-30 13:46:28.000.118,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023-09-30 13:46:50.000.790,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\CalculatorPCH1.h=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project3PCH1.h</Transaction>
+    <Transaction>2023-09-30 13:46:50.000.790,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Calculator.cbproj=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project3.cbproj</Transaction>
+    <Transaction>2023-09-30 13:46:59.000.247,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Code.h=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2023-09-30 13:46:59.000.247,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Code.dfm=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023-09-30 13:46:59.000.247,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Code.cpp=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023-09-30 13:47:28.000.062,E:\CODSOFT\CODSOFT\Calculator\Project Files\CalculatorPCH2.h=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\CalculatorPCH1.h</Transaction>
+    <Transaction>2023-09-30 13:47:28.000.272,E:\CODSOFT\CODSOFT\Calculator\Project Files\Calculator.cbproj=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Calculator.cbproj</Transaction>
+    <Transaction>2023-09-30 13:47:28.000.187,E:\CODSOFT\CODSOFT\Calculator\Project Files\Code.dfm=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Code.dfm</Transaction>
+    <Transaction>2023-09-30 13:47:28.000.187,E:\CODSOFT\CODSOFT\Calculator\Project Files\Code.h=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Code.h</Transaction>
+    <Transaction>2023-09-30 13:47:28.000.187,E:\CODSOFT\CODSOFT\Calculator\Project Files\Code.cpp=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Code.cpp</Transaction>
     <Transaction>2023-09-30 13:47:36.000.468,E:\CODSOFT\CODSOFT\Calculator\Project Files\Calculator.cbproj=E:\CODSOFT\CODSOFT\Calculator\Project Files\Calculator.cbproj</Transaction>
   </Transactions>
 </BorlandProject>

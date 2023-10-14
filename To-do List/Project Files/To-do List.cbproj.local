@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023-10-14 12:19:58.000.844,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project3PCH1.h</Transaction>
+    <Transaction>2023-10-14 12:19:58.000.960,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023-10-14 13:21:13.000.981,E:\CODSOFT\CODSOFT\To-do List\Project Files\To-do ListPCH1.h=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project3PCH1.h</Transaction>
+    <Transaction>2023-10-14 13:21:14.000.040,E:\CODSOFT\CODSOFT\To-do List\Project Files\To-do List.cbproj=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project3.cbproj</Transaction>
+    <Transaction>2023-10-14 13:21:14.000.009,E:\CODSOFT\CODSOFT\To-do List\Project Files\Unit1.dfm=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023-10-14 13:21:14.000.009,E:\CODSOFT\CODSOFT\To-do List\Project Files\Unit1.cpp=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023-10-14 13:21:14.000.009,E:\CODSOFT\CODSOFT\To-do List\Project Files\Unit1.h=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2023-10-14 13:21:23.000.315,E:\CODSOFT\CODSOFT\To-do List\Project Files\Code.dfm=E:\CODSOFT\CODSOFT\To-do List\Project Files\Unit1.dfm</Transaction>
+    <Transaction>2023-10-14 13:21:23.000.315,E:\CODSOFT\CODSOFT\To-do List\Project Files\Code.cpp=E:\CODSOFT\CODSOFT\To-do List\Project Files\Unit1.cpp</Transaction>
+    <Transaction>2023-10-14 13:21:23.000.315,E:\CODSOFT\CODSOFT\To-do List\Project Files\Code.h=E:\CODSOFT\CODSOFT\To-do List\Project Files\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>

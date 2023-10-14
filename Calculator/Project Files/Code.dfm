@@ -1,7 +1,7 @@
 object Calculator_: TCalculator_
   Left = 0
   Top = 0
-  Caption = 'Calculator_'
+  Caption = 'Calculator'
   ClientHeight = 576
   ClientWidth = 418
   Color = clBtnFace
